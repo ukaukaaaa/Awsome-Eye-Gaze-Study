@@ -20,9 +20,10 @@
 ### Gaze Generation
 
 **Modeling Human Eye Movements with Neural Networks in a Maze-Solving Task** \
-[NIPS Gaze Meet ML Workshop, 2022]
+[NIPS Gaze Meet ML Workshop, 2022] \
 [[Paper](https://proceedings.mlr.press/v210/li23a)] [[Code](https://github.com/jazlab/Maze_Task_2022)]
 
+This paper propose a method to generate 
 
 ---
 
