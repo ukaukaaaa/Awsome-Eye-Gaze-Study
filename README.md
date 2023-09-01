@@ -20,13 +20,11 @@
 ### Gaze Generation
 
 **Modeling Human Eye Movements with Neural Networks in a Maze-Solving Task** \
-This paper propose a method to generate atial planning task, maze-solving. We collected eye movement
-data from human subjects and built deep generative models of eye movements using a
-novel differentiable architecture for gaze fixations and gaze shifts. We found that human
-eye movements are best predicted by a model that is optimized not to perform the task as
-efficiently as possible but instead to run an internal\
 [NIPS Gaze Meet ML Workshop, 2022] \
-[[Paper](https://proceedings.mlr.press/v210/li23a)] [[Code](https://github.com/jazlab/Maze_Task_2022)]
+[[Paper](https://proceedings.mlr.press/v210/li23a)] [[Code](https://github.com/jazlab/Maze_Task_2022)] \
+TLDR: Propose one maze-solving task and gaze RNN network to build a generative model for eye gaze data.
+
+
 
 
 ---
